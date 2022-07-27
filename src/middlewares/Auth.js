@@ -1,7 +1,7 @@
 import jwt from 'jwt-simple';
 import dayjs from 'dayjs';
 import isSameOrBefore from 'dayjs/plugin/isSameOrBefore'
-import {} from 'dotenv/config';
+// import {} from 'dotenv/config';
 
 const secret = process.env.SECRET
 

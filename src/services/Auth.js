@@ -1,5 +1,5 @@
 import jwt from 'jwt-simple';
-import {} from 'dotenv/config';
+//import {} from 'dotenv/config';
 import dayjs from 'dayjs';
 
 const secret = process.env.SECRET;

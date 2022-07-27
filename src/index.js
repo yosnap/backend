@@ -1,6 +1,6 @@
 import { app } from './app';
 import { connect } from 'mongoose';
-import {} from 'dotenv/config';
+//import {} from 'dotenv/config';
 
 const port = process.env.PORT;
 const db = process.env.MONGO_URL;
